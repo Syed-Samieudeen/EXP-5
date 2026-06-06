@@ -30,8 +30,10 @@ PROCEDURE:
 OBSERVATIONS:
 
 REGULATION CHARACTERISTICS:
+<img width="825" height="1280" alt="image" src="https://github.com/user-attachments/assets/3b3a7203-bd4e-41d1-b9a0-d6d6124876ff" />
 
 V-I & REGULATION CHARACTERISTICS:
+<img width="833" height="1280" alt="image" src="https://github.com/user-attachments/assets/b84491e0-c903-4c90-b6f0-f55a6b70f9e8" />
 
 PRECAUTIONS:
 
